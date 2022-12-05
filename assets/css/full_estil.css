@@ -660,10 +660,9 @@
 
   .carritoPrincipal{
     margin-top: 4px;
-    margin-bottom: 4px;
+    margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    
   }
   
   .finalizar{
@@ -671,6 +670,14 @@
     margin-bottom: 4px;
     margin-left: 0px;
     margin-right: 0px;
+  }
+
+  .precioProducto{
+    font-size: 30px;
+  }
+
+  .precioFinalProducto{
+    font-size: 30px;
   }
 
   .categoriasProductos{
