@@ -665,6 +665,13 @@
     margin-right: 0px;
     
   }
+  
+  .finalizar{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
 
   .categoriasProductos{
     display: none;
